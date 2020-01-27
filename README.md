@@ -1,7 +1,7 @@
-# Onvid downloader
+# Onvid (online video downloader)
 
 ## Description:
-    Onvid is a class module {inside vids package} solely made for downloading one file video streaming files into a user specified name
+    Onvid is a class module {inside vids package} built on python solely made for downloading one file video streaming files into a user specified name
     
 ## Implementation:
     implementing the onvid class is very easy.
